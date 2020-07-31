@@ -8,7 +8,7 @@
 		<th bgcolor=FF8C00>普及-模板大全</th>
 	</tr>
 	<tr>
-		<td bgcolor=EBEBEB>并查集</td>
+		<td bgcolor=66CD00>并查集</td>
 		<td bgcolor=EBEBEB>快速幂-取余运算</td>
 		<td bgcolor=EBEBEB>线性筛素数</td>
 	</tr>
@@ -23,6 +23,7 @@
 		<td bgcolor=EBEBEB></td>
 	</tr>
 </table>
+
 
 <table>
 	<tr>
