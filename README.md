@@ -4,8 +4,8 @@
 
 | 普及-模板大全 | 普及-模板大全 | 普及-模板大全 |
 | :---: | :----: | :----: |
-| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[并查集](./div6/P3367.cpp)</s> | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[快速幂-取余运算](https://github.com/nayix/ACM/blob/master/div6/p1226.cpp)</s> | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线性筛素数 |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最小生成树    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)堆      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)快速排序     |
+| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[并查集](https://github.com/nayix/ACM/blob/master/div6/P3367.cpp)</s> | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[快速幂-取余运算](https://github.com/nayix/ACM/blob/master/div6/p1226.cpp)</s> | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线性筛素数 |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最小生成树    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)堆      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)[快速排序](https://github.com/nayix/ACM/blob/master/div6/P1177.cpp)     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)字符串哈希 | ||
 
 | 普及/提高-模板 | 普及/提高-模板 | 普及/提高-模板 |
