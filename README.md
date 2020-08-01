@@ -73,4 +73,5 @@
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)插头dp   | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)类欧几里得算法      |      |
 
 ## 扩展训练
-- ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)[宝物筛选(多重背包-二进制划分)](https://github.com/nayix/ACM/blob/master/div4/P1776.cpp)
+- ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[宝物筛选(多重背包-二进制划分)](https://github.com/nayix/ACM/blob/master/div4/P1776.cpp)</s>  
+- ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[宝物筛选(多重背包-单调队列优化)](https://github.com/nayix/ACM/blob/master/div4/P1776-2.cpp)</s>  
