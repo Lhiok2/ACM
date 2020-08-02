@@ -10,7 +10,7 @@
 
 | 普及/提高-模板 | 普及/提高-模板 | 普及/提高-模板 |
 | :---: | :----: | :----: |
-| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单调队列](https://github.com/nayix/ACM/blob/master/div5/P1886.cpp)</s>    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)三分法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)矩阵快速幂     |
+| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单调队列](https://github.com/nayix/ACM/blob/master/div5/P1886.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[三分法](https://github.com/nayix/ACM/blob/master/div5/P3382.cpp)</s>      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)矩阵快速幂     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)树状数组1    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)乘法逆元      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最近公共祖先     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)单源最短路A    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)KMP字符串匹配      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)树状数组2     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线段树1    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)矩阵加速（数列）      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)ST表     |
