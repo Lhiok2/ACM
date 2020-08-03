@@ -14,7 +14,7 @@
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[树状数组1](https://github.com/nayix/ACM/blob/master/div5/P3374.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[乘法逆元](https://github.com/nayix/ACM/blob/master/div5/P3811.cpp)</s>      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最近公共祖先     |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单源最短路径](https://github.com/nayix/ACM/blob/master/div5/P4779.cpp)</s>    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)KMP字符串匹配      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[树状数组2](https://github.com/nayix/ACM/blob/master/div5/P3368.cpp)</s>     |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[线段树1](https://github.com/nayix/ACM/blob/master/div5/P3372.cpp)</s>    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)矩阵加速（数列）      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)ST表     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)单源最短路径B    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)裴蜀定理      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单调栈](https://github.com/nayix/ACM/blob/master/div5/P5788.cpp)</s>     |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)裴蜀定理      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单调栈](https://github.com/nayix/ACM/blob/master/div5/P5788.cpp)</s>     |      |
 
 | 普及+模板 | 普及+模板 | 普及+模板 |
 | :---: | :----: | :----: |
@@ -76,3 +76,4 @@
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[宝物筛选(多重背包-二进制划分)](https://github.com/nayix/ACM/blob/master/div4/P1776.cpp)</s>  
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[宝物筛选(多重背包-单调队列优化)](https://github.com/nayix/ACM/blob/master/div4/P1776-2.cpp)</s>  
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[乘法逆元(线性递推)](https://github.com/nayix/ACM/blob/master/div5/P3811-2.cpp)</s>  
+- ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[基础最短路练习题(异或操作)](https://github.com/nayix/ACM/blob/master/div5/P5651.cpp)</s>  
