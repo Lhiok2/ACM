@@ -53,13 +53,13 @@ inline int query(int x, int y) {
         dep >>= 1;
     }
     if (x == y) return x;
-    for (j = 19; j;) {
+    for (j = 19; ~j;) {
         if (lca[x][j] != lca[y][j]) {
             x = lca[x][j];
             y = lca[y][j];
-        } else j >>= 1;
+        } else j--;
     }
-    return lca[x][0] == lca[y][0]? lca[x][0]: lca[x][1];
+    return lca[x][0];
 }
 
 int main() {
