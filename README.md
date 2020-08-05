@@ -18,7 +18,7 @@
 
 | 普及+模板 | 普及+模板 | 普及+模板 |
 | :---: | :----: | :----: |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二元一次不定方程    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)乘法逆元2      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)康托展开     |
+| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[二元一次不定方程](https://github.com/nayix/ACM/blob/master/div4/P5656.cpp)</s>    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)乘法逆元2      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)康托展开     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)子序列自动机    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)nim游戏      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线段树2     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最长公共子序列    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)全源最短路      |      |
 
