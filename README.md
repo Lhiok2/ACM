@@ -19,8 +19,8 @@
 | 普及+模板 | 普及+模板 | 普及+模板 |
 | :---: | :----: | :----: |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[二元一次不定方程](https://github.com/nayix/ACM/blob/master/div4/P5656.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[乘法逆元2](https://github.com/nayix/ACM/blob/master/div4/P5431.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[康托展开](https://github.com/nayix/ACM/blob/master/div4/P5367.cpp)</s>     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)子序列自动机    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)nim游戏      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线段树2     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最长公共子序列    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)全源最短路      |      |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最长公共子序列    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[nim游戏](https://github.com/nayix/ACM/blob/master/div4/P2197.cpp)</s>      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线段树2     |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)全源最短路    |       |      |
 
 | 提高+/省选-模板 | 提高+/省选-模板 | 提高+/省选-模板 |
 | :---: | :----: | :----: |
@@ -33,7 +33,7 @@
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)负环    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二维凸包      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二分图匹配     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)割点（割顶）    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)网络最大流A      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)重链剖分     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)欧拉定理    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)卢卡斯定理      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线性基     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机A    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机B      |      |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机A    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机B      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)子序列自动机    |
 
 | 省选/NOI-模板 | 省选/NOI-模板 | 省选/NOI-模板 |
 | :---: | :----: | :----: |
@@ -77,3 +77,4 @@
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[宝物筛选(多重背包-单调队列优化)](https://github.com/nayix/ACM/blob/master/div4/P1776-2.cpp)</s>  
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[乘法逆元(线性递推)](https://github.com/nayix/ACM/blob/master/div5/P3811-2.cpp)</s>  
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[基础最短路练习题(异或操作)](https://github.com/nayix/ACM/blob/master/div5/P5651.cpp)</s>  
+- ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[高手过招(博弈论-阶梯Nim)](https://github.com/nayix/ACM/blob/master/div3/P2575.cpp)</s>  
