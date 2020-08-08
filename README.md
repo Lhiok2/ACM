@@ -25,7 +25,7 @@
 | 提高+/省选-模板 | 提高+/省选-模板 | 提高+/省选-模板 |
 | :---: | :----: | :----: |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[拉格朗日插值](https://github.com/nayix/ACM/blob/master/div3/P4781.cpp)</s>    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)树上K级祖先      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)笛卡尔树     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)原根    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最小费用最大流      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)左偏树（可并堆）     |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)原根    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最小费用最大流      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[左偏树（可并堆）](https://github.com/nayix/ACM/blob/master/div3/P3377.cpp)</s>     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)有理数取余    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)差分约束算法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)StoerWagner算法     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)无向图三元环计数    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)Prufer序列      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最小表示法     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)扫描线    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)manacher算法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)强连通分量     |
