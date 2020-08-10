@@ -37,7 +37,7 @@
 
 | 省选/NOI-模板 | 省选/NOI-模板 | 省选/NOI-模板 |
 | :---: | :----: | :----: |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)可持久化数组    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)普通平衡树      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)半平面交     |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)可持久化数组    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[普通平衡树](https://github.com/nayix/ACM/blob/master/div2/P6136.cpp)</s>      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)半平面交     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)多项式乘法逆    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)可持久化Splay      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)静态仙人掌     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)回文自动机    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线段树分裂      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)回滚莫队     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)Dirichlet前缀和    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)下降幂多项式乘法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)后缀排序     |

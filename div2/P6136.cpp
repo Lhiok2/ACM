@@ -3,9 +3,6 @@ P6136: 普通平衡树(数据加强版)
 https://www.luogu.com.cn/problem/P6136
 */
 #include <cstdio>
-#include <random>
-#include <algorithm>
-std::mt19937 rnd(233);
 using namespace std;
 
 inline int read() {
@@ -16,14 +13,14 @@ inline int read() {
         ch = getchar();
     }
     while (ch > 47 && ch < 58) {
-        x = x * 10 + ch - 48;
+        x = (x << 3) + (x << 1) + ch - 48;
         ch = getchar();
     }
     return x * w;
 }
 
 const int max_n = 1100005;
-int cnt, root, x, y, z, last;
+int cnt, root, x, y, z, last, seed = 1;
 
 struct NODE {
     int l, r;
@@ -35,7 +32,7 @@ struct NODE {
 inline int newNode(int val) {
     fhq[++cnt].val = val;
     fhq[cnt].size = 1;
-    fhq[cnt].key = rnd();
+    fhq[cnt].key = (seed *= 19260817);
     return cnt;
 }
 
@@ -91,10 +88,10 @@ inline void ranking(int val) {
 inline void query(int rank) {
     x = root;
     while (true) {
-        if (fhq[fhq[x].l].size + 1 == rank) break;
         if (fhq[fhq[x].l].size >= rank) x = fhq[x].l;
         else {
-            rank -= fhq[x].l + 1;
+            rank -= fhq[fhq[x].l].size + 1;
+            if (!rank) break;
             x = fhq[x].r;
         }
     }
