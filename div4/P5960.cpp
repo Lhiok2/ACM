@@ -28,7 +28,10 @@ inline int spfa(int n) {
             v = road[i];
             if (dis[u] + w[i] < dis[v]) {
                 dis[v] = dis[u] + w[i];
-                if (!exists[v]) que.push(v);
+                if (!exists[v]) {
+                    exists[v] = true;
+                    que.push(v);
+                }
             }
         }
     }
