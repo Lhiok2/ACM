@@ -14,7 +14,7 @@
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[树状数组1](https://github.com/nayix/ACM/blob/master/div5/P3374.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[乘法逆元](https://github.com/nayix/ACM/blob/master/div5/P3811.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[最近公共祖先](https://github.com/nayix/ACM/blob/master/div5/P3379.cpp)</s>     |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单源最短路径](https://github.com/nayix/ACM/blob/master/div5/P4779.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[KMP字符串匹配](https://github.com/nayix/ACM/blob/master/div5/P3375.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[树状数组2](https://github.com/nayix/ACM/blob/master/div5/P3368.cpp)</s>     |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[线段树1](https://github.com/nayix/ACM/blob/master/div5/P3372.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[矩阵加速（数列）](https://github.com/nayix/ACM/blob/master/div5/P1939.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[ST表](https://github.com/nayix/ACM/blob/master/div5/P3865.cpp)</s>     |
-| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[裴蜀定理](https://github.com/nayix/ACM/blob/master/div5/P4549.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单调栈](https://github.com/nayix/ACM/blob/master/div5/P5788.cpp)</s>     |      |
+| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[裴蜀定理](https://github.com/nayix/ACM/blob/master/div5/P4549.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[单调栈](https://github.com/nayix/ACM/blob/master/div5/P5788.cpp)</s>     | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[负环](https://github.com/nayix/ACM/blob/master/div5/P3385.cpp)</s>    |
 
 | 普及+模板 | 普及+模板 | 普及+模板 |
 | :---: | :----: | :----: |
@@ -30,10 +30,10 @@
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)无向图三元环计数    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)Prufer序列      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)最小表示法     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)扫描线    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)manacher算法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)强连通分量     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)缩点    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)高斯消元法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)中国剩余定理     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)负环    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二维凸包      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二分图匹配     |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机A    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二维凸包      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二分图匹配     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)割点（割顶）    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)网络最大流A      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[重链剖分](https://github.com/nayix/ACM/blob/master/div3/P3384.cpp)</s>     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)欧拉定理    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)卢卡斯定理      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线性基     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机A    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机B      |      |
+| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机B      |      |      |
 
 | 省选/NOI-模板 | 省选/NOI-模板 | 省选/NOI-模板 |
 | :---: | :----: | :----: |
