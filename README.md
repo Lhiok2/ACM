@@ -20,7 +20,7 @@
 | :---: | :----: | :----: |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[二元一次不定方程](https://github.com/nayix/ACM/blob/master/div4/P5656.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[乘法逆元2](https://github.com/nayix/ACM/blob/master/div4/P5431.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[康托展开](https://github.com/nayix/ACM/blob/master/div4/P5367.cpp)</s>     |
 | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[最长公共子序列](https://github.com/nayix/ACM/blob/master/div4/P1439.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[nim游戏](https://github.com/nayix/ACM/blob/master/div4/P2197.cpp)</s>      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[线段树2](https://github.com/nayix/ACM/blob/master/div4/P3373.cpp)</s>     |
-| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[全源最短路](https://github.com/nayix/ACM/blob/master/div4/P5905.cpp)</s>    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)差分约束算法      |      |
+| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[全源最短路](https://github.com/nayix/ACM/blob/master/div4/P5905.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[差分约束算法](https://github.com/nayix/ACM/blob/master/div4/P5960.cpp)</s>      |      |
 
 | 提高+/省选-模板 | 提高+/省选-模板 | 提高+/省选-模板 |
 | :---: | :----: | :----: |
