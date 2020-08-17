@@ -33,7 +33,7 @@
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机A    | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)高斯消元法      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)中国剩余定理     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)AC自动机B      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二维凸包      | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)二分图匹配     |
 | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)线性基     | ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)网络最大流A      | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[重链剖分](https://github.com/nayix/ACM/blob/master/div3/P3384.cpp)</s>     |
-| ![#f03c15](https://placehold.it/15/ebebeb/000000?text=+)欧拉定理    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[卢卡斯定理](https://github.com/nayix/ACM/blob/master/div3/P3807.cpp)</s>      |       |
+| ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[扩展欧拉定理](https://github.com/nayix/ACM/blob/master/div3/P5091.cpp)</s>    | ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[卢卡斯定理](https://github.com/nayix/ACM/blob/master/div3/P3807.cpp)</s>      |       |
 
 | 省选/NOI-模板 | 省选/NOI-模板 | 省选/NOI-模板 |
 | :---: | :----: | :----: |
