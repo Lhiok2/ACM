@@ -79,3 +79,4 @@
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[基础最短路练习题(异或操作)](https://github.com/nayix/ACM/blob/master/div5/P5651.cpp)</s>  
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[高手过招(博弈论-阶梯Nim)](https://github.com/nayix/ACM/blob/master/div3/P2575.cpp)</s>  
 - ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[线段树2(zkw-线段树)](https://github.com/nayix/ACM/blob/master/div3/P3373-2.cpp)</s>  
+- ![#f03c15](https://placehold.it/15/66cd00/000000?text=+)<s>[Centroids(换根DP)](https://github.com/nayix/ACM/blob/master/div3/CF708C.cpp)</s>  
