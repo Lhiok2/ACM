@@ -2,7 +2,6 @@
 P3810: 三维偏序（陌上花开）
 https://www.luogu.com.cn/problem/P3810
 */
-#include <vector>
 #include <iostream>
 #include <algorithm>
 #define _N 100005
@@ -16,12 +15,18 @@ struct COORD {
 		cin >> x >> y >> z;
 	}
 	
+	bool operator < (const COORD& t) const {
+	    return x != t.x? x < t.x:
+			y != t.y? y < t.y:
+				z < t.z;
+	}
+	
 	bool operator == (const COORD& t) const {
 		return x == t.x && y == t.y && z == t.z;
 	}
 } _point[_N], _tmp[_N];
 
-int _cnt, _ti[_N], _ans[_N], _zkw[_M];
+int _cnt, _ti[_N], _ans[_M], _zkw[_M];
 
 inline void update(int x) {
 	for ( ; x; x >>= 1) ++_zkw[x];
@@ -32,6 +37,7 @@ inline void init(int x) {
 }
 
 inline int query(int r) {
+    if (r <= _cnt) return 0;
 	int l = _cnt, ans = 0;
 	for (++r; l ^ r ^ 1; l >>= 1, r >>= 1) {
 		if (~l & 1) ans += _zkw[l ^ 1];
@@ -63,19 +69,14 @@ void CDQ(int l, int r) {
 }
 
 inline void solve() {
-	vector<COORD> tmp;
 	register int i, n, m;
 	cin >> n >> m;
 	for (_cnt = 1; _cnt <= m; _cnt <<= 1);
 	for (i = 1; i <= n; ++i) _point[i].read();
 	// 三维 x/y/z
-	sort(_point + 1, _point + n + 1, [](COORD a, COORD b) {
-		return a.x != b.x? a.x < b.x:
-			a.y != b.y? a.y < b.y:
-				a.z <= b.z;
-	});
+	sort(_point + 1, _point + n + 1);
 	// 相同坐标加贡献
-	for (i = n - 1; i; --i) if (_point[i] == _point[i+1]) _ti[i] += _ti[i+1] + 1;
+	for (i = n - 1; i > 0; --i) if (_point[i] == _point[i+1]) _ti[i] = _ti[i+1] + 1;
 	// 坐标处理
 	for (i = 1; i <= n; ++i) {
 		_point[i].x = i;
