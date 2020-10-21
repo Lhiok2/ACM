@@ -73,11 +73,9 @@ inline void del(int& root, int val) {
 	root = merge(merge(_x, _z), _y);
 }
 
-inline int ranks(int& root, int val) {
+inline int ranks(int root, int val) {
 	split(root, _x, _y, val - 1);
-	_z = _fhq[_x].si + 1;
-	root = merge(_x, _y);
-	return _z;
+	return _fhq[_x].si + 1;
 }
 
 inline int query(int root, int rk) {
@@ -92,18 +90,16 @@ inline int query(int root, int rk) {
 	}
 }
 
-inline int pre(int& root, int val) {
+inline int pre(int root, int val) {
 	split(root, _x, _y, val - 1);
-	for (_z = _x; _fhq[_z].rs; _z = _fhq[_z].rs);
-	root = merge(_x, _y);
-	return _z? _fhq[_z].val: _INF_NEG;
+	for ( ; _fhq[_x].rs; _x = _fhq[_x].rs);
+	return _x? _fhq[_x].val: _INF_NEG;
 }
 
-inline int suf(int& root, int val) {
+inline int suf(int root, int val) {
 	split(root, _x, _y, val);
-	for (_z = _y; _fhq[_z].ls; _z = _fhq[_z].ls);
-	root = merge(_x, _y);
-	return _z? _fhq[_z].val: _INF;
+	for (; _fhq[_y].ls; _y = _fhq[_y].ls);
+	return _y? _fhq[_y].val: _INF;
 }
 
 inline void solve() {
