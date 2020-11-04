@@ -23,7 +23,7 @@ struct SAM {
 		st[0].len = cnt = last = 0;
 	}
 	
-	inline void extend(char ch) {
+	inline void extend(const char& ch) {
 		int p = last, cur = ++cnt;
 		st[cur].ti = 1;
 		st[cur].len = st[p].len + 1;
@@ -44,7 +44,7 @@ struct SAM {
 		last = cur;
 	}
 	
-	inline void build(string str) {
+	inline void build(const string& str) {
 		init();
 		for (const char& ch : str) extend(ch);
 		int i, rk[cnt+1];
@@ -56,7 +56,7 @@ struct SAM {
 	}
 } _sam;
 
-inline void up(long long& x, long long y) {
+inline void up(long long& x, const long long& y) {
 	if (x < y) x = y;
 }
 
