@@ -49,7 +49,7 @@ struct SAM {
 		for (const char& ch : str) extend(ch);
 		int i, rk[cnt+1];
 		for (i = 1; i <= cnt; ++i) rk[i] = i;
-		sort(rk + 1, rk + cnt + 1, [&](int x, int y) {
+		sort(rk + 1, rk + cnt + 1, [&](const int& x, const int& y) {
 			return st[x].len > st[y].len;
 		});
 		for (i = 1; i <= cnt; ++i) st[st[rk[i]].link].ti += st[rk[i]].ti;
