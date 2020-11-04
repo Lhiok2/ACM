@@ -10,8 +10,7 @@ https://www.luogu.com.cn/problem/P3804
 using namespace std;
 
 struct STATE {
-	int ti, len, link;
-	map<int, int> next;
+	int ti, len, link, next[26];
 };
 
 struct SAM {
@@ -21,13 +20,15 @@ struct SAM {
 	inline void init() {
 		st[0].link = -1;
 		st[0].len = cnt = last = 0;
+		for (int i = 0; i < 26; ++i) st[0].next[i] = 0;
 	}
 	
-	inline void extend(const char& ch) {
+	inline void extend(const int& ch) {
 		int p = last, cur = ++cnt;
 		st[cur].ti = 1;
 		st[cur].len = st[p].len + 1;
-		for ( ; ~p && !st[p].next.count(ch); p = st[p].link) st[p].next[ch] = cur;
+		for (int i = 0; i < 26; ++i) st[cur].next[i] = 0;
+		for ( ; ~p && !st[p].next[ch]; p = st[p].link) st[p].next[ch] = cur;
 		if (~p) {
 			int q = st[p].next[ch];
 			if (st[q].len == st[p].len + 1) st[cur].link = q;
@@ -35,9 +36,9 @@ struct SAM {
 				int clone = ++cnt;
 				st[clone].ti = 0;
 				st[clone].link = st[q].link;
-				st[clone].next = st[q].next;
 				st[clone].len = st[p].len + 1;
 				st[cur].link = st[q].link = clone;
+				for (int i = 0; i < 26; ++i) st[clone].next[i] = st[q].next[i];
 				for ( ; ~p && st[p].next[ch] == q; p = st[p].link) st[p].next[ch] = clone;
 			}
 		} else st[cur].link = 0;
@@ -46,7 +47,7 @@ struct SAM {
 	
 	inline void build(const string& str) {
 		init();
-		for (const char& ch : str) extend(ch);
+		for (const char& ch : str) extend(ch-'a');
 		int i, rk[cnt+1];
 		for (i = 1; i <= cnt; ++i) rk[i] = i;
 		sort(rk + 1, rk + cnt + 1, [&](const int& x, const int& y) {
