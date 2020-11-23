@@ -3,61 +3,45 @@ P3379: 最近公共祖先
 https://www.luogu.com.cn/problem/P3379
 */
 #include <iostream>
+#define max_n 500005
+#define max_m 1000005
 using namespace std;
 
-inline void swap(int& x, int& y) {
-    x ^= y;
-    y ^= x;
-    x ^= y;
+int cnt, lca[max_n][20], depth[max_n], fir[max_n], nex[max_m], link_node[max_m];
+
+void dfs(int p, int fa) {
+    depth[p] = depth[lca[p][0] = fa] + 1;
+    for (int i = 0; i < 19; ++i) lca[p][i+1] = lca[lca[p][i]][i];
+    for (int i = fir[p]; i; i = nex[i]) {
+        if (link_node[i] == fa) continue;
+        dfs(link_node[i], p);
+    }
 }
 
-const int max_n = 5e5 + 5;
-const int max_m = 1e6 + 5;
-int lca[max_n][20], depth[max_n], fir[max_n], nex[max_m], link_node[max_m];
-
-void dfs(int p, int dep, int fa) {
-    int i;
-    depth[p] = dep;
-    lca[p][0] = fa;
-    for (i = 1; i < 20; ++i) 
-        lca[p][i] = lca[lca[p][i-1]][i-1];
-    for (i = fir[p]; i; i = nex[i]) {
-        if (link_node[i] == fa) continue;
-        dfs(link_node[i], dep + 1, p);
-    }
+inline void addEdge(int u, int v) {
+	nex[++cnt] = fir[u];
+	fir[u] = cnt;
+	link_node[cnt] = v;
 }
 
 inline void build(int n, int root) {
-    int i, j, u, v;
+    register int i, j, u, v;
     for (i = 1, j = max_n; i < n; ++i, ++j) {
         cin >> u >> v;
-        nex[i] = fir[u];
-        fir[u] = i;
-        link_node[i] = v;
-        nex[j] = fir[v];
-        fir[v] = j;
-        link_node[j] = u;
+        addEdge(u, v);
+        addEdge(v, u);
     }
-    dfs(root, 0, 0);
+    dfs(root, 0);
 }
 
 inline int query(int x, int y) {
-    int i, j, mid;
-    int dep = depth[x] - depth[y];
-    if (dep < 0) {
-        swap(x, y);
-        dep = -dep;
-    }
-    for (i = 0; dep; ++i) {
-        if (dep & 1) x = lca[x][i];
-        dep >>= 1;
-    }
+	if (depth[x] > depth[y]) swap(x, y);
+    for (int i = 19; ~i; --i) if (depth[lca[y][i]] >= depth[x]) y = lca[y][i];
     if (x == y) return x;
-    for (j = 19; ~j;) {
-        if (lca[x][j] != lca[y][j]) {
-            x = lca[x][j];
-            y = lca[y][j];
-        } else j--;
+    for (int i = 19; ~i; --i) {
+        if (lca[x][i] == lca[y][i]) continue;
+        x = lca[x][i];
+        y = lca[y][i];
     }
     return lca[x][0];
 }
