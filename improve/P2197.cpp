@@ -1,5 +1,5 @@
 /*
-P2197: nim游戏
+P2197: [模板]nim游戏
 https://www.luogu.com.cn/problem/P2197
 */
 #include <iostream>
