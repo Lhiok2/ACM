@@ -1,5 +1,5 @@
 /*
-子序列自动机
+P5826: [模板]子序列自动机
 https://www.luogu.com.cn/problem/P5826
 */
 #include <vector>
