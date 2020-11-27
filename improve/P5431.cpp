@@ -29,7 +29,7 @@ inline long long fastPow(long long x, long long k) {
         if (k & 1ll) ans = modp(ans * x);
         x = modp(x * x);
         k >>= 1;
-    }
+    } 
     return ans;
 }
 
