@@ -1,5 +1,5 @@
 /*
-P4549: 裴蜀定理
+P4549: [模板]裴蜀定理
 https://www.luogu.com.cn/problem/P4549
 */
 #include <iostream>
