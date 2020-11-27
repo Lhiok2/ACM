@@ -1,5 +1,5 @@
 /*
-P6136: 普通平衡树(数据加强版)
+P6136: [模板]普通平衡树(数据加强版)
 https://www.luogu.com.cn/problem/P6136
 */
 #include <cstdio>
