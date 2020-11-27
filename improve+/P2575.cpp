@@ -1,5 +1,5 @@
 /*
-P2575: 高手过招
+P2575: 高手过招-阶梯博弈
 https://www.luogu.com.cn/problem/P2575
 */
 #include <iostream>
