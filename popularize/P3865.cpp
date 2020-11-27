@@ -1,5 +1,5 @@
 /*
-P3865: ST表
+P3865: [模板]ST表
 https://www.luogu.com.cn/problem/P3865
 */
 #include <cmath>
