@@ -1,5 +1,5 @@
 /*
-P3384: 轻重链剖分
+P3384: [模板]轻重链剖分
 https://www.luogu.com.cn/problem/P3384
 */
 #pragma GCC optimize(3, "Ofast", "inline")
