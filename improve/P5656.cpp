@@ -1,5 +1,5 @@
 /*
-P5656: 二元一次不定方程
+P5656: [模板]二元一次不定方程
 https://www.luogu.com.cn/problem/P5656
 */
 #include <iostream>
