@@ -1,5 +1,5 @@
 /*
-P3367: 并查集
+P3367: [模板]并查集
 https://www.luogu.com.cn/problem/P3367
 */
 #include <iostream>
