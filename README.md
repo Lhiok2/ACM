@@ -63,3 +63,13 @@
 * [树上k级祖先](https://github.com/nayix/ACM/blob/master/improve+/P5903.cpp)
 * [原根](https://github.com/nayix/ACM/blob/master/improve+/P6091.cpp)
 * [二维凸包（加强版）](https://github.com/nayix/ACM/blob/master/improve+/U130370.cpp)
+
+### 省选/NOI-
+* [二逼平衡树/树套树](https://github.com/nayix/ACM/blob/master/noi-/P3380.cpp)
+* [后缀自动机/SAM](https://github.com/nayix/ACM/blob/master/noi-/P3804.cpp)
+* [三维偏序](https://github.com/nayix/ACM/blob/master/noi-/P3810.cpp)
+* [可持久化线段树 2/主席树](https://github.com/nayix/ACM/blob/master/noi-/P3834.cpp)
+* [可持久化平衡树](https://github.com/nayix/ACM/blob/master/noi-/P3835.cpp)
+* [AC自动机-二次加强版](https://github.com/nayix/ACM/blob/master/noi-/P5357.cpp)
+* [线段树分裂](https://github.com/nayix/ACM/blob/master/noi-/P5494.cpp)
+* [普通平衡树-数据加强版](https://github.com/nayix/ACM/blob/master/noi-/P6136.cpp)
