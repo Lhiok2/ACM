@@ -1,5 +1,5 @@
 /*
-P3388: 割点(割顶)
+P3388: [模板]割点(割顶)
 https://www.luogu.com.cn/problem/P3388
 */
 #include <vector>
