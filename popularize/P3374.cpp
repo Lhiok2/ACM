@@ -1,5 +1,5 @@
 /*
-P3374: 树状数组1
+P3374: [模板]树状数组1
 https://www.luogu.com.cn/problem/P3374
 */
 #include <iostream>
