@@ -1,5 +1,5 @@
 /*
-P3380: 模板】二逼平衡树（树套树）
+P3380: [模板]二逼平衡树（树套树）
 https://www.luogu.com.cn/problem/P3380
 */
 #include <iostream>
