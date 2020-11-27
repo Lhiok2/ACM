@@ -1,5 +1,5 @@
 /*
-P5960: 差分约束算法
+P5960: [模板]差分约束算法
 https://www.luogu.com.cn/problem/P5960
 */
 #include <queue>
