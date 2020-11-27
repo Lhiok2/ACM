@@ -1,5 +1,5 @@
 /*
-P5357: AC自动机（二次加强版）
+P5357: [模板]AC自动机（二次加强版）
 https://www.luogu.com.cn/problem/P5357
 */
 #include <queue>
