@@ -1,5 +1,5 @@
 /*
-P3383: 线性筛素数
+P3383: [模板]线性筛素数
 https://www.luogu.com.cn/problem/P3383
 */
 #include <bitset>
