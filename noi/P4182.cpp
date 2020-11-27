@@ -1,9 +1,7 @@
-// Problem : P4182 [USACO18JAN]Lifeguards P (单调队列优化dp)
-// Contest : Luogu
-// URL : https://www.luogu.com.cn/problem/P4182
-// Memory Limit : 125 MB
-// Time Limit : 1000 ms
-// Powered by CP Editor (https://github.com/cpeditor/cpeditor)
+/*
+P4182: [USACO18JAN]Lifeguards P (单调队列优化dp)
+https://www.luogu.com.cn/problem/P4182
+*/
 #include <deque>
 #include <iostream>
 #include <algorithm>
