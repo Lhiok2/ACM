@@ -1,5 +1,5 @@
 /*
-P3387: 缩点
+P3387: [模板]缩点
 https://www.luogu.com.cn/problem/P3387
 */
 #include <queue>
