@@ -1,5 +1,5 @@
 /*
-P3377: 左偏树(可并堆)
+P3377: [模板]左偏树(可并堆)-启发式合并
 https://www.luogu.com.cn/problem/P3377
 */
 #include <queue>
