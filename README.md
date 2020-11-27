@@ -73,3 +73,6 @@
 * [AC自动机-二次加强版](https://github.com/nayix/ACM/blob/master/noi-/P5357.cpp)
 * [线段树分裂](https://github.com/nayix/ACM/blob/master/noi-/P5494.cpp)
 * [普通平衡树-数据加强版](https://github.com/nayix/ACM/blob/master/noi-/P6136.cpp)
+
+### NOI/NOI+/CTSC
+* [单调队列优化dp](https://github.com/nayix/ACM/blob/master/noi/P4182.cpp)
