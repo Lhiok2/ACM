@@ -1,5 +1,5 @@
 /*
-P5431: 乘法逆元2
+P5431: [模板]乘法逆元2
 https://www.luogu.com.cn/problem/P5431
 */
 #pragma GCC optimize("Ofast")
