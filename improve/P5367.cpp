@@ -1,5 +1,5 @@
 /*
-P5367: 康托展开
+P5367: [模板]康托展开
 https://www.luogu.com.cn/problem/P5367
 */
 #include <iostream>
