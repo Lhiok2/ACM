@@ -1,5 +1,5 @@
 /*
-P1939: 矩阵加速
+P1939: [模板]矩阵加速(数列)
 https://www.luogu.com.cn/problem/P1939
 */
 #include <iostream>
