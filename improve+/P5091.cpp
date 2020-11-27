@@ -1,5 +1,5 @@
 /*
-P5091: 扩展欧拉定理
+P5091: [模板]扩展欧拉定理
 https://www.luogu.com.cn/problem/P5091
 */
 #include <cstdio>
