@@ -1,5 +1,5 @@
 /*
-P2742: 二维凸包
+P2742: [模板]二维凸包
 https://www.luogu.com.cn/problem/P2742
 */
 #include <cmath>
