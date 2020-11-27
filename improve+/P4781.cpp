@@ -1,5 +1,5 @@
 /*
-P4781: 拉格朗日插值
+P4781: [模板]拉格朗日插值
 https://www.luogu.com.cn/problem/P4781
 */
 #include <iostream>
