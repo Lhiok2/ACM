@@ -1,5 +1,5 @@
 /*
-P3366: 最小生成树
+P3366: [模板]最小生成树
 https://www.luogu.com.cn/problem/P3366
 */
 #include <iostream>
