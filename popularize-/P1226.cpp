@@ -1,5 +1,5 @@
 /*
-P1223: 快速幂-取余运算
+P1223: [模板]快速幂||取余运算
 https://www.luogu.com.cn/problem/P1226
 */
 #include <iostream>
