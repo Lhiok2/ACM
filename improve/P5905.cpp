@@ -1,5 +1,5 @@
 /*
-P5905: 全源最短路 (Johnson)
+P5905: [模板]全源最短路 (Johnson)
 https://www.luogu.com.cn/problem/P5905
 */
 #include <queue>
