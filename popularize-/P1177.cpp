@@ -1,5 +1,5 @@
 /*
-P1177: 快速排序
+P1177: [模板]快速排序
 https://www.luogu.com.cn/problem/P1177
 */
 #include <iostream>
