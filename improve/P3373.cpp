@@ -1,5 +1,5 @@
 /*
-P3373: 线段树2
+P3373: [模板]线段树2
 https://www.luogu.com.cn/problem/P3373
 */
 #include <cstdio>
