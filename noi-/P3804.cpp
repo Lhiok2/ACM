@@ -1,5 +1,5 @@
 /*
-P3804 【模板】后缀自动机 (SAM)
+P3804 [模板]后缀自动机 (SAM)
 https://www.luogu.com.cn/problem/P3804
 */
 #include <map>
