@@ -1,5 +1,5 @@
 /*
-P3375: KMP字符串匹配
+P3375: [模板]KMP字符串匹配
 https://www.luogu.com.cn/problem/P3375
 */
 #include <cstdio>
