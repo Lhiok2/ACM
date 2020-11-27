@@ -1,5 +1,5 @@
 /*
-P3808: AC自动机（简单版）
+P3808: [模板]AC自动机（简单版）
 https://www.luogu.com.cn/problem/P3808
 */
 #include <queue>
