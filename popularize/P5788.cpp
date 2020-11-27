@@ -1,5 +1,5 @@
 /*
-P5788: 单调栈
+P5788: [模板]单调栈
 https://www.luogu.com.cn/problem/P5788
 */
 #include <iostream>
