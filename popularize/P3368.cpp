@@ -1,5 +1,5 @@
 /*
-P3368: 树状树组2
+P3368: [模板]树状树组2
 https://www.luogu.com.cn/problem/P3368
 */
 #include <iostream>
