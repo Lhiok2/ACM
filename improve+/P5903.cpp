@@ -1,5 +1,5 @@
 /*
-P5903: 树上k级祖先
+P5903: [模板]树上k级祖先
 https://www.luogu.com.cn/problem/P5903
 */
 #include <cstdio>
