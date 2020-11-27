@@ -1,5 +1,5 @@
 /*
-P3796: AC自动机（加强版）
+P3796: [模板]AC自动机（加强版）
 https://www.luogu.com.cn/problem/P3796
 */
 #include <queue>
