@@ -1,5 +1,5 @@
 /*
-P3390: 矩阵快速幂
+P3390: [模板]矩阵快速幂
 https://www.luogu.com.cn/problem/P3390
 */
 #include <iostream>
