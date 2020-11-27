@@ -1,5 +1,5 @@
 /*
-P3811: 乘法逆元-费马小定理
+P3811: [模板]乘法逆元-费马小定理
 https://www.luogu.com.cn/problem/P3811
 */
 #include <cstdio>
