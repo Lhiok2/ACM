@@ -1,5 +1,5 @@
 /*
-Centroids
+CF708C: Centroids(换根DP)
 https://www.luogu.com.cn/problem/CF708C
 */
 #include <iostream>
