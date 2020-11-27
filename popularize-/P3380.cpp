@@ -1,5 +1,5 @@
 /*
-P3370: 字符串哈希
+P3370: [模板]字符串哈希
 https://www.luogu.com.cn/problem/P3370
 */
 #include <string>
