@@ -1,5 +1,5 @@
 /*
-P1439: 最长公共子序列
+P1439: [模板]最长公共子序列
 https://www.luogu.com.cn/problem/P1439
 */
 #include <iostream>
