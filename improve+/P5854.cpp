@@ -1,5 +1,5 @@
 /*
-P5854: 笛卡尔树
+P5854: [模板]笛卡尔树
 https://www.luogu.com.cn/problem/P5854
 */
 #include <stack>
