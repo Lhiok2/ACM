@@ -1,5 +1,5 @@
 /*
-P3379: 最近公共祖先
+P3379: [模板]最近公共祖先(LCA)
 https://www.luogu.com.cn/problem/P3379
 */
 #include <iostream>
