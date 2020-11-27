@@ -1,5 +1,5 @@
 /*
-U130370: 二维凸包（加强版）
+U130370: [模板]二维凸包（加强版）
 https://www.luogu.com.cn/problem/U130370
 */
 #include <cmath>
