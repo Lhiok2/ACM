@@ -1,5 +1,5 @@
 /*
-P3372: 线段树1
+P3372: [模板]线段树1
 https://www.luogu.com.cn/problem/P3372
 */
 #include <iostream>
