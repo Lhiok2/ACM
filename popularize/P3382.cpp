@@ -1,5 +1,5 @@
 /*
-P3382: 三分法
+P3382: [模板]三分法
 https://www.luogu.com.cn/problem/P3382
 */
 #include <cstdio>
