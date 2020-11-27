@@ -1,5 +1,5 @@
 /*
-P3807: 卢卡斯定理
+P3807: [模板]卢卡斯定理
 https://www.luogu.com.cn/problem/P3807
 */
 #include <iostream>
