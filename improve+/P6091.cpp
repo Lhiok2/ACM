@@ -1,5 +1,5 @@
 /*
-P6091: 原根
+P6091: [模板]原根
 https://www.luogu.com.cn/problem/P6091
 */
 #include <vector>
